@@ -1,0 +1,13 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1772130036496,
+      "tag": "20260226182036_same_tigra",
+      "breakpoints": true
+    }
+  ]
+}
