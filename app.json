@@ -36,7 +36,7 @@
       "expo-router",
       "expo-web-browser"
     ],
-    "scheme": "Natively App",
+    "scheme": "NativelyApp",
     "experiments": {
       "typedRoutes": true
     },
